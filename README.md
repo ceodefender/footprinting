@@ -63,7 +63,7 @@ pip install -r requirements.txt
 # :gear: USAGE:
 ```bash
 cd footprinting
-python3 footprinting.py
+python3 CEO_FootPrinting_Tool.py
 ```
 
 <br>
@@ -97,13 +97,7 @@ python3 footprinting.py
 
 <br>
 
-# :scroll: SETTINGS:
 
-**The tool includes configuration files for customized usage:**
-
-```bash
-Configuration/Config.ini
-```
 
 <br>
 
@@ -128,4 +122,4 @@ This project is licensed under the **GPL-3.0 License**.
 
 <br>
 
-## <p align="center">MADE WITH :heart: BY CEO IN ::</p>
+## <p align="center">MADE WITH :heart: BY CEO </p>
