@@ -92,7 +92,6 @@ python3 CEO_FootPrinting_Tool.py
 ![Screenshot](Screenshot/Tool_Output.png)
 
 <p align="center">
-  <img src=" height="400px" width="700px">
 </p>
 
 <br>
