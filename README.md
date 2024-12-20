@@ -14,7 +14,7 @@
 
 # :mag: Footprinting Tool
 
-**Footprinting is an advanced domain reconnaissance and Cloudflare bypass tool.**
+**CEO_Footprinting_Tool is an advanced domain reconnaissance and Cloudflare bypass tool.**
 
 **This tool integrates multiple powerful modules, including CloudFail, WAFNinja, Nmap, Subfinder, Amass, Shodan, and others.**
 
@@ -120,20 +120,6 @@ Configuration/Config.ini
 
 <br>
 
-# :last_quarter_moon: DARK MODE (Optional):
-```bash
-cd Theme
-edit Mode.json
-```
-
-**Example Mode.json:**
-```json
-{
-    "Color": {
-        "Background": "Dark"
-    }
-}
-```
 
 <br>
 
@@ -142,4 +128,4 @@ This project is licensed under the **GPL-3.0 License**.
 
 <br>
 
-## <p align="center">MADE WITH :heart: BY CEO IN :it:</p>
+## <p align="center">MADE WITH :heart: BY CEO IN ::</p>
