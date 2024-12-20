@@ -4,8 +4,10 @@ termcolor
 shodan
 whois
 traceroute
-dnsutils
 theHarvester
 photon
 sublist3r
 wafw00f
+pyfiglet
+lolcat
+amass
