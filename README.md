@@ -101,9 +101,7 @@ python3 CEO_FootPrinting_Tool.py
 
 <br>
 
-# API INTEGRATION:
 
-**For additional features, you can integrate your Shodan API key. Add the key in the tool when prompted.**
 
 <br>
 
