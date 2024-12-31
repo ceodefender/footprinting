@@ -63,6 +63,7 @@ pip install -r requirements.txt
 # :gear: USAGE:
 ```bash
 cd footprinting
+sudo su
 python3 CEO_FootPrinting_Tool.py
 ```
 
