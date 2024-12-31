@@ -14,9 +14,9 @@
 
 # :mag: Footprinting Tool
 
-**CEO_Footprinting_Tool is an advanced domain reconnaissance and Cloudflare bypass tool.**
+**CEO_Footprinting_Tool is an advanced domain reconnaissance and firewal detection tool.**
 
-**This tool integrates multiple powerful modules, including CloudFail, WAFNinja, Nmap, Subfinder, Amass, Shodan, and others.**
+**This tool integrates multiple powerful modules, including, Nmap, Subfinder, Amass, Shodan, and others.**
 
 **It helps users gather information about domains and perform reconnaissance with accuracy. Proxies and anonymity features ensure safe and private operations.**
 
