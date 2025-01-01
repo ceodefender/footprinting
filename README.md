@@ -41,6 +41,7 @@ pip install -r requirements.txt
 
 # Install necessary system packages
 sudo apt install whois traceroute dnsutils
+
 # Also download Photon manually for no error
 sudo apt install photon
 ```
