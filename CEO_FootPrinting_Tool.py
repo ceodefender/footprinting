@@ -40,7 +40,7 @@ def run_dig():
 def run_nslookup():
     print(colored("\nRunning NSLOOKUP...", 'blue'))
     try:
-        subprocess.run(["sudo", "nslookup", "-type=ANY", domain], check=True)
+        subprocess.run(["sudo", "nslookup", domain], check=True)
     except subprocess.CalledProcessError:
         print(colored("[Error] NSLOOKUP command failed.", 'red'))
 
