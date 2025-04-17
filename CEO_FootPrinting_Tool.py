@@ -9,7 +9,7 @@ os.system('clear')
 banner = pyfiglet.figlet_format("CEO FootPrinTinG TooL")
 print(colored(banner, 'cyan'))
 print(colored("Author: CEO", 'green'))
-print(colored("GitHub: https://github.com/ceotools/footprinting", 'green'))
+print(colored("GitHub: https://github.com/ceodefender/footprinting", 'green'))
 print("=" * 50)
 
 # Input domain
