@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ceotools/footprinting">
-  <img src="https://img.shields.io/github/forks/ceotools/footprinting">
+  <img src="https://img.shields.io/github/stars/ceodefender/footprinting">
+  <img src="https://img.shields.io/github/forks/ceodefender/footprinting">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-  <img src="https://img.shields.io/github/license/ceotools/footprinting">
-  <img src="https://img.shields.io/github/repo-size/ceotools/footprinting">
-  <img src="https://img.shields.io/github/languages/count/ceotools/footprinting">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ceotools.footprinting">
+  <img src="https://img.shields.io/github/license/ceodefender/footprinting">
+  <img src="https://img.shields.io/github/repo-size/ceodefender/footprinting">
+  <img src="https://img.shields.io/github/languages/count/ceodefender/footprinting">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ceodefender.footprinting">
 </p>
 
 # :mag: Footprinting Tool
